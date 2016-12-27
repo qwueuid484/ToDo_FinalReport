@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo_Final Report</string>
+
+    <string name="btnAddItem">Add Item</string>
+</resources>
